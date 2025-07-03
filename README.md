@@ -44,37 +44,14 @@
 
 <div align="center">
 
-<!-- LIGHT MODE -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=m-saad-0&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=m-saad-0&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=m-saad-0&show_icons=true&theme=cyberpunk" alt="GitHub Stats"/>
 
 <br/>
 
-<!-- TOP LANGUAGES -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=m-saad-0&layout=compact&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-saad-0&layout=compact&theme=radical" alt="Top Languages"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-saad-0&layout=compact&theme=cyberpunk" alt="Top Languages"/>
 
 <br/>
 
-<!-- FIXED STREAK STATS -->
-<picture>
-  <source 
-    srcset="https://streak-stats.demolab.com?user=m-saad-0&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://streak-stats.demolab.com?user=m-saad-0&theme=radical" alt="GitHub Streak"/>
-</picture>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-saad-0)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-saad-0&theme=cyberpunk" alt="GitHub Streak"/>
 
 </div>

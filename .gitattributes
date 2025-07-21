@@ -1,1 +1,7 @@
+# Ignore Jupyter Notebooks for language stats
 *.ipynb linguist-detectable=false
+
+# (Optional) also ignore dataset files
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
+*.pkl linguist-detectable=false
